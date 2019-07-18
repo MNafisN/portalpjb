@@ -1,0 +1,60 @@
+
+== Changelog ==
+
+= 1.1.2 - March 6, 2019 ==
+
+- Added support for Cream Blog Lite and Cream Blog Pro
+
+= 1.1.1 - April 16, 2019 ==
+
+- Added one more demo import support for Royale News Pro
+
+= 1.1.0 - April 15, 2019 ==
+
+- Added support for Royale News Lite theme
+- Pro themes links updated
+
+= 1.0.9 - March 07, 2019 ==
+
+- Added support for Cream Magazine theme
+- Other fixes
+
+= 1.0.8 - February 25, 2019 ==
+
+- Minor Issues Fixed
+- Added support for pro themes
+
+= 1.0.7 - January 8, 2019 ==
+
+- Issue with get started button on welcome section of admin page is fixed
+
+= 1.0.6 - January 8, 2019 ==
+
+- Addition of inbuilt demo importer
+- OCDI folder and all the demo contents have been removed
+
+= 1.0.5 - December 14, 2018 ==
+
+- Changed: PLUGIN_NAME_VERSION to THEMEBEEZTOOLKIT_VERSION
+- Changed: Theme info page demo data import tab message
+
+= 1.0.4 - November 29, 2018 ==
+
+- Fix: Issue occuring when child theme gets activated
+
+= 1.0.3 - November 13, 2018 ==
+
+- Fix: This plugin hasn’t been tested with the latest 3 major releases of WordPress issue
+- Fix: Verion numbers
+
+== 1.0.2 - November 12, 2018 ==
+
+- Theme info and demo content files added for themes Royale News, One Hive and StyleBlog.
+
+== 1.0.1 - October 13, 2018 ==
+
+- Fix banner image & icon
+
+== 1.0.0 - October 12, 2018 ==
+
+- Initial release 

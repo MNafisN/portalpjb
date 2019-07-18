@@ -1,0 +1,1098 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Palermo\n"
+"POT-Creation-Date: 2017-12-29 19:17+0200\n"
+"PO-Revision-Date: 2015-11-03 15:33+0200\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid ""
+"The page you were looking for can not be found! Perhaps try searching?"
+msgstr ""
+
+#: article-palermo_room.php:14 elementor-item.php:15
+msgid "Offer"
+msgstr ""
+
+#: article-palermo_room.php:33 article.php:26 elementor-item.php:34
+#: elementor-item.php:64
+msgid "Read More <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: article.php:19 elementor-item.php:57 single.php:19
+msgid "Posted in:"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: functions.php:68
+msgid "Main Menu"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather or Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:103
+msgctxt "Merriweather and Open Sans fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:206
+msgctxt "widget area"
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:208
+msgid "This sidebar appears across your whole website."
+msgstr ""
+
+#: functions.php:216
+msgctxt "widget area"
+msgid "Sidebar bottom"
+msgstr ""
+
+#: functions.php:218
+msgid ""
+"Widgets placed here, will always be anchored to the bottom of the page. "
+"This effect is more prominent when there are no widgets assigned to the "
+"\"Sidebar\" widget area."
+msgstr ""
+
+#: functions.php:300
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:305
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:310
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:315
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:320
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:325
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:330
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:335
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:340
+msgid "Bloglovin"
+msgstr ""
+
+#: functions.php:345
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:350
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:355
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:360
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:365
+msgid "500px"
+msgstr ""
+
+#: functions.php:370
+msgid "Soundcloud"
+msgstr ""
+
+#: functions.php:375
+msgid "Spotify"
+msgstr ""
+
+#: functions.php:380
+msgid "Vine"
+msgstr ""
+
+#: functions.php:385
+msgid "TripAdvisor"
+msgstr ""
+
+#: functions.php:418
+msgid "Default"
+msgstr ""
+
+#: functions.php:419
+msgid "Solid color"
+msgstr ""
+
+#: functions.php:420 functions.php:550
+msgid "MaxSlider Slideshow"
+msgstr ""
+
+#: functions.php:421
+msgid "Video"
+msgstr ""
+
+#: functions.php:445
+msgid "Intro Text"
+msgstr ""
+
+#: functions.php:501
+msgid "Cannot show amenities of non-public, non-published rooms."
+msgstr ""
+
+#: functions.php:539
+msgid "Background"
+msgstr ""
+
+#: functions.php:540
+msgid ""
+"You can set the background to display a solid color, a MaxSlider "
+"slideshow, or a video."
+msgstr ""
+
+#: functions.php:542
+msgid "Background type:"
+msgstr ""
+
+#: functions.php:545
+msgid "Color:"
+msgstr ""
+
+#: functions.php:568 inc/customizer.php:152
+msgid "Video URL (YouTube or Vimeo)"
+msgstr ""
+
+#: functions.php:650
+msgid "Previous slide"
+msgstr ""
+
+#: functions.php:651
+msgid "Next slide"
+msgstr ""
+
+#: functions.php:653 functions.php:695
+msgid "Show content"
+msgstr ""
+
+#: functions.php:654 functions.php:696
+msgid "Hide content"
+msgstr ""
+
+#: functions.php:727
+msgid "No repeat"
+msgstr ""
+
+#: functions.php:728
+msgid "Tile"
+msgstr ""
+
+#: functions.php:729
+msgid "Tile Horizontally"
+msgstr ""
+
+#: functions.php:730
+msgid "Tile Vertically"
+msgstr ""
+
+#: functions.php:749
+msgid "Left"
+msgstr ""
+
+#: functions.php:750 functions.php:771
+msgid "Center"
+msgstr ""
+
+#: functions.php:751
+msgid "Right"
+msgstr ""
+
+#: functions.php:770
+msgid "Top"
+msgstr ""
+
+#: functions.php:772
+msgid "Bottom"
+msgstr ""
+
+#: functions.php:791
+msgid "Scroll"
+msgstr ""
+
+#: functions.php:792
+msgid "Fixed"
+msgstr ""
+
+#: functions.php:1009
+msgid "Select an item"
+msgstr ""
+
+#: functions.php:1035
+msgid "Demo Import"
+msgstr ""
+
+#: header.php:39
+msgid "Menu"
+msgstr ""
+
+#: inc/custom-fields-page.php:6
+msgid "Page Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:7
+msgid "Room Listing Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:29
+msgid "Options"
+msgstr ""
+
+#: inc/custom-fields-page.php:30
+msgid ""
+"You can hide the whole content area of the page by checking the box below. "
+"You may want to do so when creating a page whose sole purpose is to "
+"display a slideshow or a video."
+msgstr ""
+
+#: inc/custom-fields-page.php:31
+msgid "Hide the content area."
+msgstr ""
+
+#: inc/custom-fields-page.php:45
+msgid ""
+"Select a base category. Only items from the selected category and sub-"
+"categories will be displayed. If you don't select one (i.e. empty) all "
+"items will be shown."
+msgstr ""
+
+#: inc/custom-fields-page.php:48
+msgid "Base category:"
+msgstr ""
+
+#: inc/custom-fields-page.php:66
+#, php-format
+msgid "%s Column"
+msgid_plural "%s Columns"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-fields-page.php:70
+msgid "All rooms"
+msgstr ""
+
+#: inc/custom-fields-page.php:71
+msgid "Only rooms on offer"
+msgstr ""
+
+#: inc/custom-fields-page.php:72
+msgid "Only rooms not on offer"
+msgstr ""
+
+#: inc/custom-fields-page.php:74
+msgid "Room filter:"
+msgstr ""
+
+#: inc/custom-fields-page.php:76
+#, php-format
+msgid ""
+"Set the number of items per page that you want to display. Setting this to "
+"<code>-1</code> will show <strong>all items</strong>, while setting it to "
+"<code>0</code> or leaving it empty, will follow the global option set from "
+"<em>Settings -> Reading</em>, currently set to <strong>%s items per page</"
+"strong>."
+msgstr ""
+
+#: inc/custom-fields-page.php:77
+msgid "Items per page:"
+msgstr ""
+
+#: inc/custom-fields-room.php:6
+msgctxt "post type general name"
+msgid "Rooms"
+msgstr ""
+
+#: inc/custom-fields-room.php:7 inc/custom-fields-room.php:23
+msgctxt "post type singular name"
+msgid "Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:8
+msgctxt "admin menu"
+msgid "Rooms"
+msgstr ""
+
+#: inc/custom-fields-room.php:9
+msgctxt "add new on admin bar"
+msgid "Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:10
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-fields-room.php:11
+msgid "Add New Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:12
+msgid "Edit Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:13
+msgid "New Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:14
+msgid "View Room"
+msgstr ""
+
+#: inc/custom-fields-room.php:15
+msgid "Search Rooms"
+msgstr ""
+
+#: inc/custom-fields-room.php:16
+msgid "No Rooms found"
+msgstr ""
+
+#: inc/custom-fields-room.php:17
+msgid "No Rooms found in the trash"
+msgstr ""
+
+#: inc/custom-fields-room.php:18
+msgid "Parent Room:"
+msgstr ""
+
+#: inc/custom-fields-room.php:29
+msgctxt "post type slug"
+msgid "room"
+msgstr ""
+
+#: inc/custom-fields-room.php:38
+msgctxt "taxonomy general name"
+msgid "Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:39
+msgctxt "taxonomy singular name"
+msgid "Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:40
+msgid "Search Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:41
+msgid "All Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:42
+msgid "Parent Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:43
+msgid "Parent Room Category:"
+msgstr ""
+
+#: inc/custom-fields-room.php:44
+msgid "Edit Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:45
+msgid "Update Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:46
+msgid "Add New Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:47
+msgid "New Room Category Name"
+msgstr ""
+
+#: inc/custom-fields-room.php:48
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:49
+msgid "View Room Category"
+msgstr ""
+
+#: inc/custom-fields-room.php:50
+msgid "Popular Room Categories"
+msgstr ""
+
+#: inc/custom-fields-room.php:56
+msgctxt "taxonomy slug"
+msgid "room-category"
+msgstr ""
+
+#: inc/custom-fields-room.php:69
+msgid "Room Settings"
+msgstr ""
+
+#: inc/custom-fields-room.php:77
+msgid "Appearance"
+msgstr ""
+
+#: inc/custom-fields-room.php:78
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/custom-fields-room.php:79
+msgid "Don't show the featured image."
+msgstr ""
+
+#: inc/custom-fields-room.php:82 inc/custom-fields-room.php:87
+msgid "Amenities"
+msgstr ""
+
+#: inc/custom-fields-room.php:84
+msgid ""
+"Provide the amenities of the room. Select <em>Add Field</em> as many times "
+"as you want to create a list of amenities. You can delete one by clicking "
+"on its <em>Remove Me</em> button to it. You may also click and drag the "
+"fields to re-arrange them."
+msgstr ""
+
+#: inc/custom-fields-room.php:85
+msgid ""
+"In order to display the room's amenities, just paste the shortcode "
+"<code>[room-amenities]</code> anywhere within the main content."
+msgstr ""
+
+#: inc/custom-fields-room.php:87
+msgid "Amenities' title"
+msgstr ""
+
+#: inc/custom-fields-room.php:97 inc/custom-fields-room.php:105
+msgid "Amenity:"
+msgstr ""
+
+#: inc/custom-fields-room.php:98 inc/custom-fields-room.php:106
+msgid "Remove me"
+msgstr ""
+
+#: inc/custom-fields-room.php:109
+msgid "Add Field"
+msgstr ""
+
+#: inc/custom-fields-room.php:114
+msgid "Pricing"
+msgstr ""
+
+#: inc/custom-fields-room.php:115
+msgid ""
+"Enter the price text for the room. Include any currency symbols where "
+"appropriate (e.g. <code>From &lt;strong>$59&lt;/strong> / night</code>)."
+msgstr ""
+
+#: inc/custom-fields-room.php:116
+msgid "Price text:"
+msgstr ""
+
+#: inc/custom-fields-room.php:117
+msgid "Room is on offer."
+msgstr ""
+
+#: inc/customizer.php:10
+msgctxt "customizer section title"
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer.php:15
+msgctxt "customizer section title"
+msgid "Posts Options"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "These options affect your individual posts."
+msgstr ""
+
+#: inc/customizer.php:21
+msgctxt "customizer section title"
+msgid "Appearance"
+msgstr ""
+
+#: inc/customizer.php:25
+msgctxt "customizer section title"
+msgid "Global Background"
+msgstr ""
+
+#: inc/customizer.php:30
+msgctxt "customizer section title"
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer.php:35
+msgctxt "customizer section title"
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:40
+msgctxt "customizer section title"
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:45
+msgctxt "customizer section title"
+msgid "Social Networks"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid ""
+"Enter your social network URLs. Leaving a URL empty will hide its "
+"respective icon."
+msgstr ""
+
+#: inc/customizer.php:51
+msgctxt "customizer section title"
+msgid "Titles"
+msgstr ""
+
+#: inc/customizer.php:56
+msgctxt "customizer section title"
+msgid "Other"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Other options affecting the whole site."
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Automatically generated excerpt length (in words)"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Pagination method"
+msgstr ""
+
+#: inc/customizer.php:94
+msgctxt "pagination method"
+msgid "Numbered links"
+msgstr ""
+
+#: inc/customizer.php:95
+msgctxt "pagination method"
+msgid "\"Previous - Next\" links"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Background type"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "MaxSlider slideshow"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid ""
+"Applies only when <strong>Background type</strong> is set to "
+"<strong>MaxSlider Slideshow</strong>"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid ""
+"Applies only when <strong>Background type</strong> is set to "
+"<strong>Video</strong>"
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Sidebar background color"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Sidebar background image"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Sidebar background image repeat"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Sidebar image horizontal position"
+msgstr ""
+
+#: inc/customizer.php:208
+msgid "Sidebar background image vertical position"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Sidebar background image attachment"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Scale the image to cover the visible sidebar area"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Sidebar accent color"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Elements like navigation arrows, buttons on the sidebar, etc"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Menu text color"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Menu text hover & active color"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Sub-menu background color"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Sub-menu text color"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Sub-menu text hover & active color"
+msgstr ""
+
+#: inc/customizer.php:294 inc/customizer.php:407
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Widget titles color"
+msgstr ""
+
+#: inc/customizer.php:312 inc/customizer.php:425
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Link hover color"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Content background color"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "Content background image"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Content background image repeat"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Content image horizontal position"
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Content background image vertical position"
+msgstr ""
+
+#: inc/customizer.php:387
+msgid "Content background image attachment"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Scale the image to cover the visible content area"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Titles color"
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "Link color hover"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Border color"
+msgstr ""
+
+#: inc/customizer.php:452
+msgid "Accent color"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Applies to minor elements like arrows or icons"
+msgstr ""
+
+#: inc/customizer.php:462
+msgid "Light backgrounds"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "Applies to elements like tables and blockquotes"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "Button background color"
+msgstr ""
+
+#: inc/customizer.php:481
+msgid "Button text color"
+msgstr ""
+
+#: inc/customizer.php:490
+msgid "Button background hover color"
+msgstr ""
+
+#: inc/customizer.php:499
+msgid "Button text hover color"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Content H1 size"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Content H2 size"
+msgstr ""
+
+#: inc/customizer.php:534
+msgid "Content H3 size"
+msgstr ""
+
+#: inc/customizer.php:544
+msgid "Content H4 size"
+msgstr ""
+
+#: inc/customizer.php:554
+msgid "Content H5 size"
+msgstr ""
+
+#: inc/customizer.php:564
+msgid "Content H6 size"
+msgstr ""
+
+#: inc/customizer.php:574
+msgid "Content body text size"
+msgstr ""
+
+#: inc/customizer.php:584
+msgid "Widgets title size"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Widgets text size"
+msgstr ""
+
+#: inc/customizer.php:604
+msgid "Uppercase all content titles"
+msgstr ""
+
+#: inc/customizer.php:614
+msgid "Uppercase widget titles"
+msgstr ""
+
+#: inc/customizer.php:629
+msgid "Open social and sharing links in a new tab."
+msgstr ""
+
+#: inc/customizer.php:642
+#, php-format
+msgctxt "social network url"
+msgid "%s URL"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "RSS Feed"
+msgstr ""
+
+#: inc/customizer.php:668
+msgid "Show date."
+msgstr ""
+
+#: inc/customizer.php:678
+msgid "Show categories."
+msgstr ""
+
+#: inc/customizer.php:688
+msgid "Show featured image."
+msgstr ""
+
+#: inc/customizer.php:698
+msgid "Show tags."
+msgstr ""
+
+#: inc/customizer.php:708
+msgid "Show comments."
+msgstr ""
+
+#: inc/customizer.php:717 part-hero.php:5
+msgid "From the blog"
+msgstr ""
+
+#: inc/customizer.php:723
+msgid "Blog section title"
+msgstr ""
+
+#: inc/customizer.php:727 part-hero.php:11
+msgid "Search results"
+msgstr ""
+
+#: inc/customizer.php:733
+msgid "Search title"
+msgstr ""
+
+#: inc/customizer.php:737 part-hero.php:13
+msgid "Page not found"
+msgstr ""
+
+#: inc/customizer.php:743
+msgid "404 (page not found) title"
+msgstr ""
+
+#: inc/customizer.php:759
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:769
+msgid "Google Analytics Tracking ID"
+msgstr ""
+
+#: inc/customizer.php:770
+#, php-format
+msgid ""
+"Tracking is enabled only for the non-admin portion of your website. If you "
+"need fine-grained control of the tracking code, you are strongly adviced "
+"to <a href=\"%s\" target=\"_blank\">use a specialty plugin</a> instead."
+msgstr ""
+
+#: inc/customizer.php:786
+msgid "Resources"
+msgstr ""
+
+#: inc/customizer.php:789
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Download the theme's sample content</a> "
+"to get things moving."
+msgstr ""
+
+#: inc/customizer.php:811
+msgid "Limit logo size (for Retina display)"
+msgstr ""
+
+#: inc/customizer.php:812
+msgid ""
+"This option will limit the image size to half its width. You will need to "
+"upload your image in 2x the dimension you want to display it in."
+msgstr ""
+
+#: inc/customizer.php:822
+msgid "Show site title below the logo."
+msgstr ""
+
+#: inc/customizer.php:832
+msgid "Show the tagline below the logo."
+msgstr ""
+
+#: inc/customizer.php:842
+msgid "Logo top padding"
+msgstr ""
+
+#: inc/customizer.php:852
+msgid "Logo bottom padding"
+msgstr ""
+
+#: inc/elements.php:11
+msgid "Palermo Elements"
+msgstr ""
+
+#: inc/elements.php:27 inc/elements.php:42
+msgid "Palermo Post Type"
+msgstr ""
+
+#: inc/elements.php:50
+msgid ""
+"Display any post type item from Palermo by first selecting the post type, "
+"e.g. \"Rooms\" and then the item itself."
+msgstr ""
+
+#: inc/elements.php:58
+msgid "Post Type"
+msgstr ""
+
+#: inc/elements.php:68
+msgid "Post"
+msgstr ""
+
+#: inc/elements.php:78
+msgid "View"
+msgstr ""
+
+#: inc/elements.php:122
+msgid "No posts found."
+msgstr ""
+
+#: inc/functions.php:104
+msgctxt "previous post"
+msgid "Previous"
+msgstr ""
+
+#: inc/functions.php:105
+msgctxt "next post"
+msgid "Next"
+msgstr ""
+
+#: inc/functions.php:106
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/helpers-post-meta.php:22
+msgid "Select file"
+msgstr ""
+
+#: inc/helpers-post-meta.php:23
+msgid "Select files"
+msgstr ""
+
+#: inc/helpers-post-meta.php:24
+msgid "Use this file"
+msgstr ""
+
+#: inc/helpers-post-meta.php:25
+msgid "Use these files"
+msgstr ""
+
+#: inc/helpers-post-meta.php:26
+msgid "Update gallery"
+msgstr ""
+
+#: inc/helpers-post-meta.php:27
+msgid "Loading..."
+msgstr ""
+
+#: inc/helpers-post-meta.php:28
+msgid "Gallery preview not available."
+msgstr ""
+
+#: inc/helpers-post-meta.php:29
+msgid "Remove image"
+msgstr ""
+
+#: inc/helpers-post-meta.php:30 inc/helpers-post-meta.php:433
+msgid "Remove from gallery"
+msgstr ""
+
+#: inc/helpers-post-meta.php:263
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/helpers-post-meta.php:422
+msgid "Add Images"
+msgstr ""
+
+#: inc/helpers-post-meta.php:424
+msgid "Randomize order"
+msgstr ""
+
+#: inc/helpers-post-meta.php:439
+msgid "Your gallery images will appear here"
+msgstr ""
+
+#: inc/helpers.php:23
+#, php-format
+msgid ""
+"It looks like the theme was just installed. <a href=\"%s\" target=\"_blank"
+"\">Download the sample content</a> to get things moving."
+msgstr ""
+
+#: inc/widgets/socials.php:10
+msgid "Displays the site's social icons."
+msgstr ""
+
+#: inc/widgets/socials.php:12
+msgid "Theme - Social Icons"
+msgstr ""
+
+#: inc/widgets/socials.php:45
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/socials.php:46
+msgid ""
+"This widget displays your site's social icons. In order to set them up, "
+"you need to visit <strong>Appearance > Customize > Social Networks</"
+"strong> and provide the appropriate URLs where desired."
+msgstr ""
+
+#: search.php:10
+msgid "No results found. Please broaden your terms and search again."
+msgstr ""
+
+#: search.php:11
+msgid ""
+"Just one result found. We either nailed it, or you might want to broaden "
+"your terms and search again."
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "search box placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:5
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Palermo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.cssigniter.com/ignite/themes/palermo/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Hotel theme for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CSSIgniter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cssigniter.com"
+msgstr ""
